@@ -1,6 +1,0 @@
-uint8 servo_id
----
-int16 speed
-int16 payload
-uint8 voltage
-uint16 current
