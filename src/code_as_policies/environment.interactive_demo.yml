@@ -1,0 +1,23 @@
+name: code-as-policies-interactive-demo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - scipy
+  - shapely
+  - astunparse
+  - pygments
+  - pybullet
+  - moviepy
+  - imageio=2.4.1
+  - imageio-ffmpeg
+  - opencv
+  - ffmpeg
+  - jupyterlab
+  - ipykernel
+  - matplotlib
+  - pip:
+      - openai==0.28.1
+      - gdown
